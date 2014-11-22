@@ -6,6 +6,10 @@ var help_messages = {
   'help_bills_count_by_day': {
     title: 'Изменения кол-во счетов по дням',
     text: 'Изменения кол-во счетов по дням текст'
+  },
+  'help_bills_count_by_day_test': {
+    title: 'Изменения кол-во счетов по дням test',
+    text: 'Изменения кол-во счетов по дням текст test'
   }
 }
 
